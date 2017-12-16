@@ -1,0 +1,9 @@
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Negocios.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Negocios.pdb
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Dados.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Modelos.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Dados.pdb
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\bin\Debug\Modelos.pdb
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\obj\Debug\Negocios.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Negocios\obj\Debug\Negocios.pdb

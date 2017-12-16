@@ -1,0 +1,7 @@
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\bin\Debug\Dados.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\bin\Debug\Dados.pdb
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\bin\Debug\Modelos.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\bin\Debug\Modelos.pdb
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\obj\Debug\Dados.dll
+C:\Hugo\Avaliacoes\FGV - Avaliacao\AvaliacaoFGV\Dados\obj\Debug\Dados.pdb

@@ -1,0 +1,9 @@
+Avaliação FGV
+
+O projeto consiste em uma solução criada com uma arquitetura MVC com 4 camadas.
+-AvaliaçãoFGV (Apresentação  - Não implementada)
+-AvaliaçãoFGV.Tests (Testes - Implementada)
+-Dados (Acesso a dados - Implementada)
+-Modelos (Modelos e Propriedades - Implementada)
+-Negocios (Negócios - Não implementada)
+
